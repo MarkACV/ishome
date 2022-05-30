@@ -22,7 +22,7 @@ This project provides a way of knowing if a specific device is connected to the 
 * Once inside the project directory, install python3 requirements using requirements.txt file or run pipreqs in order to get the missing requirements.
 ### 1) Edit config.py
  You will need to edit the config.py file. Insert:
- * The gmail account that will be sending the periodic report. (check, gmail bot account setup)
+ * The gmail account that will be sending the periodic report. (Make a new gmail account or use a disposable one). [How to enable a gmail account to work with python](https://www.dev2qa.com/how-do-i-enable-less-secure-apps-on-gmail/)
  * The password for that account.
  * Your main gmail address where you'll get the reports. 
 
