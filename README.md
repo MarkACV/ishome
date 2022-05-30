@@ -3,7 +3,7 @@
 
 ## Description
 
-This project provides a way to know if a specific device is connected to the LAN, which means the device is physically in a place of interest.  Knowing if a cell phone is inside the network could be a way to know if a specific person is physically in that place (like a house ).
+This project provides a way of knowing if a specific device is connected to the LAN, which means the device is physically in a place of interest.  Knowing if a cell phone is inside the network could be a way of knowing if a specific person is physically in that place (like a house ).
 
 ## Dependencies
 
