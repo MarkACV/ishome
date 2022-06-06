@@ -3,7 +3,7 @@
 
 ## Description
 
-This project provides a way of knowing if a specific device is connected to the LAN, which means the device is physically in a place of interest.  Knowing if a cell phone is inside the network could be a way of knowing if a specific person is physically in that place (like a house ).
+This project provides a way of knowing if a specific device is connected to the LAN, which means the device is physically in a place of interest.  Knowing if a cell phone is inside the network could be a way of knowing if a specific person is physically in that place (like a house ).  The way it works can be seen as automated pings to a specific local IP address.  Remember IP addresses can change due to DHCP, which is not very likely unless there is a considerably big amount of devices connected to the network.
 
 ## Dependencies
 
